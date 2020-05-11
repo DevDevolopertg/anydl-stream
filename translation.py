@@ -38,11 +38,11 @@ class Translation(object):
     CURENT_PLAN_DETAILS = """Telegram ID : <code>{}</code>
 Plan name : Free
 Expires on : Until My Death"""
-    HELP_USER = """**1.** **Send** **file**
+    HELP_USER = """1. Send file
 
-**2.** **Send** **custom** **Thumbnail**
+2. Send custom Thumbnail
 
-**3.** **Reply** **the** **file** **-** **/rename** **New** **file** **Name**"""
+3. Reply the file - /rename New file Name"""
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
     REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
     REPLY_TO_DOC_FOR_SCSS = "Reply to a Telegram media to get screenshots"
