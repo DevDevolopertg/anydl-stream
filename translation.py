@@ -1,51 +1,52 @@
 class Translation(object):
     START_TEXT = """<b>Thank You for using me.</b>
 
-Rename files with Custom Thumbnail Support..
+**Rename** **files** **with** **Custom** **Thumbnail** **Support..**
 
 1. Send file
 2. Send custom Thumbnail
 3. Reply the file - /rename New file  Name
 
 ☛ <b> Do one By One rename. Otherwise you will get Permenent Ban </b>
-  © @M4L4Y4LI
-/help for more details.."""
+  **©** **@Amal_PM**
+  
+**/help** **for** **more** **details..**"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = """ <b>Plan: Super User </b>
-<b> contact @M4L4Y4LI for details. </b> """
+<b> contact @Amal_PM for more details. </b> """
     FORMAT_SELECTION = "Select the desired format: <a href='{}'>file size might be approximate</a> \nIf you want to set custom thumbnail, send photo before or quickly after tapping on any of the below buttons.\nYou can use /deletethumbnail to delete the auto-generated thumbnail."
 
 
     NOYES_URL = "@robot URL detected. Please use https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
-    DOWNLOAD_START = "**downloading**"
-    UPLOAD_START = "trying to upload"
+    DOWNLOAD_START = "**Trying** **to** **Download..📥"
+    UPLOAD_START = "**Trying** **to** **Upload..📤**"
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Uploaded successfully \n © @M4L4Y4LI**"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank** **you** **for** **Using** **me..!!**"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \nUploaded in {} seconds."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
     NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug"
-    SAVED_CUSTOM_THUMB_NAIL = "Custom video / file thumbnail saved. This image will be used in the video / file."
+    SAVED_CUSTOM_THUMB_NAIL = "**Custom** **video** **/** **file** **thumbnail** **saved**. **This** **image** **will** **be** **used** **in** **the** **video** **/** **file**."
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom thumbnail cleared succesfully."
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "✅ Media cleared succesfully."
     SAVED_RECVD_DOC_FILE = "Downloaded Successfully."
-    CUSTOM_CAPTION_UL_FILE = ""
+    CUSTOM_CAPTION_UL_FILE = "**📤** **Renamed** **by** **@DLRename_Bot**"
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
     NO_VOID_FORMAT_FOUND = "no-one gonna help you\n<b>YouTubeDL</b> said: {}"
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
-    CURENT_PLAN_DETAILS = """Telegram ID: <code>{}</code>
-Plan name: Free
-Expires on: nil"""
-    HELP_USER = """1. Send file
+    CURENT_PLAN_DETAILS = """**Telegram** **ID** **:** <code>{}</code>
+**Plan** **name** **:** Free
+**Expires** **on** **:** **Until** **My** **Death**"""
+    HELP_USER = """**1.** **Send** **file**
 
-2. Send custom Thumbnail
+**2.** **Send** **custom** **Thumbnail**
 
-3. Reply the file - /rename New file Name"""
+**3.** **Reply** **the** **file** **-** **/rename** **New** **file** **Name**"""
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
     REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
     REPLY_TO_DOC_FOR_SCSS = "Reply to a Telegram media to get screenshots"
-    REPLY_TO_DOC_FOR_RENAME_FILE = "Reply to a Telegram media to /rename with custom thumbnail support"
+    REPLY_TO_DOC_FOR_RENAME_FILE = "**Reply** **to** **a** **Telegram** **Media** **to** **/rename** **with** **custom** **thumbnail** **support**"
     AFTER_GET_DL_LINK = "Direct Link <a href='{}'>Generated</a> valid for {} days.\n© @x_row"
     FF_MPEG_RO_BOT_RE_SURRECT_ED = """Syntax: /trim HH:MM:SS [HH:MM:SS]"""
     FF_MPEG_RO_BOT_STEP_TWO_TO_ONE = "First send /downloadmedia to any media so that it can be downloaded to my local. \nSend /storageinfo to know the media, that is currently downloaded."
