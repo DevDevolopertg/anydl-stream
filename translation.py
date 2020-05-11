@@ -35,9 +35,9 @@ class Translation(object):
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
     NO_VOID_FORMAT_FOUND = "no-one gonna help you\n<b>YouTubeDL</b> said: {}"
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
-    CURENT_PLAN_DETAILS = """**Telegram** **ID** **:** <code>{}</code>
-**Plan** **name** **:** Free
-**Expires** **on** **:** **Until** **My** **Death**"""
+    CURENT_PLAN_DETAILS = """Telegram ID : <code>{}</code>
+Plan name : Free
+Expires on : Until My Death"""
     HELP_USER = """**1.** **Send** **file**
 
 **2.** **Send** **custom** **Thumbnail**
