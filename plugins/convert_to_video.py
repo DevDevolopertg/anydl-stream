@@ -134,7 +134,6 @@ async def convert_to_video(bot, update):
             )
             try:
                 os.remove(the_real_download_location)
-                os.remove(thumb_image_path)
             except:
                 pass
             await bot.edit_message_text(
