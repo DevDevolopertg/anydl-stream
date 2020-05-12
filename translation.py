@@ -1,14 +1,7 @@
 class Translation(object):
-    START_TEXT = """<b>Thank You for using me.</b>
+    START_TEXT = """<b>Welcome to Tg_Stream Bot.</b>
 
-**Rename** **files** **with** **Custom** **Thumbnail** **Support..**
-
-1. Send file
-2. Send custom Thumbnail
-3. Reply the file - /rename New file  Name
-
-☛ <b> Do one By One rename. Otherwise you will get Permenent Ban </b>
-  **©** **@Amal_PM**
+**Simple** **bot** **for** **Convert** **Telegram** **Media** **file** **to** **Streaming** **Video** **with** **Custom** **Thumbnail** **Support**
   
 **/help** **for** **more** **details..**"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
@@ -19,7 +12,7 @@ class Translation(object):
 
 
     NOYES_URL = "@robot URL detected. Please use https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
-    DOWNLOAD_START = "**Trying** **to** **Download..📥**"
+    DOWNLOAD_START = "**Trying** **to** **Download..📥...** **Your** **request** **is** **in** **the** **queue.**"
     UPLOAD_START = "**Trying** **to** **Upload..📤**"
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
@@ -31,20 +24,19 @@ class Translation(object):
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom thumbnail cleared succesfully."
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "✅ Media cleared succesfully."
     SAVED_RECVD_DOC_FILE = "Downloaded Successfully."
-    CUSTOM_CAPTION_UL_FILE = "**📤** **Renamed** **by** **@DLRename_Bot**"
+    CUSTOM_CAPTION_UL_FILE = "**📤** **Streamed** **by** **@Tgstream_bot**"
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
     NO_VOID_FORMAT_FOUND = "no-one gonna help you\n<b>YouTubeDL</b> said: {}"
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     CURENT_PLAN_DETAILS = """Telegram ID : <code>{}</code>
 Plan name : Free
 Expires on : Until My Death"""
-    HELP_USER = """1. Send file
-
+    HELP_USER = """1. Send Media file
 2. Send custom Thumbnail
+3. Reply the media file - /converttovideo"""
 
-3. Reply the file - /rename New file Name"""
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
-    REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
+    REPLY_TO_DOC_FOR_C2V = "**Hey..** **Reply** **to** **a** **Telegram** **media** **to** **convert**"
     REPLY_TO_DOC_FOR_SCSS = "Reply to a Telegram media to get screenshots"
     REPLY_TO_DOC_FOR_RENAME_FILE = "**Reply** **to** **a** **Telegram** **Media** **to** **/rename** **with** **custom** **thumbnail** **support**"
     AFTER_GET_DL_LINK = "Direct Link <a href='{}'>Generated</a> valid for {} days.\n© @x_row"
