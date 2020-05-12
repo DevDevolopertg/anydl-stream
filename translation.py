@@ -3,7 +3,10 @@ class Translation(object):
 
 😇Simple bot for Convert Telegram Media file to Streaming Video with Custom Thumbnail Support😘😘
   
- 👉 **/help** **for** **more** **details..**"""
+  ☛ <b> Do one By One . Otherwise you will get Permenent Ban </b>
+  **©** **@Amal_PM**
+  
+👉 **/help** **for** **more** **details..**"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = """ <b>Plan: Super User </b>
@@ -32,7 +35,9 @@ class Translation(object):
 Plan name : Free
 Expires on : Until My Death"""
     HELP_USER = """1. Send Media file
+    
 2. Send custom Thumbnail
+
 3. Reply media file - /converttovideo"""
 
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
