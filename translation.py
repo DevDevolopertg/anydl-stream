@@ -1,7 +1,7 @@
 class Translation(object):
-    START_TEXT = """<b>Welcome to Tg_Stream Bot.</b>
+    START_TEXT = """<b>💞 Welcome to Tg_Stream Bot 💞 </b>
 
-😇 Simple bot for Convert Telegram Media file to Streaming Video with Custom Thumbnail Support 😘😘
+📌 Simple bot for Convert Telegram Media file to Streaming Video with Custom Thumbnail Support 😘😘
   
   ☛ <b> Do one By One . Otherwise you will get Permenent Ban </b>
   **©** **@Amal_PM**
